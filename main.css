@@ -1,0 +1,37 @@
+body {
+    /*font-family: Arial;*/
+    /*背景*/
+    /* background-image: url('https://misaka23300.github.io/1621172609156.jpg'); */
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    /*padding: 0px;*/  /*内边距*/
+    margin: 0px;    /*外边距*/
+}
+
+.fhead {
+    background-color: #eab0e5; /*背景颜色*/
+    /* display: inline; */
+    padding: 0px;
+}
+
+
+
+    .fhead a {
+        color: #070001;
+        float: left; /*左对齐*/
+        margin: 0px; /*外边距*/
+        /* border-style: solid; */ /*实现边框*/
+        padding: 6.5px; /*内边距*/
+        text-align: center; /*居中对齐*/
+        display: inline-block;
+    }
+
+a:hover {
+    text-decoration: none; /*消去鼠标浮动时下划线*/
+    color: #a679dc;
+}
+
+
+
+
